@@ -6,8 +6,8 @@ The task was to create a website for an Events Management company.
 * HTML
 * CSS
 
-## Programming Language
+## Programming Language:
 * Javascript
 
-## CSS Framework
+## CSS Framework:
 * Bootstrap
